@@ -2,6 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
+  "description": "Personal portfolio — a step-by-step single-page site showcasing pet projects (a cosmetics e-commerce store and its admin panel), built with Vite, React and TypeScript.",
   "type": "module",
   "scripts": {
     "dev": "vite",
